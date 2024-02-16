@@ -9,16 +9,16 @@
 
 - 🌱 I’m currently learning **Express**
 
-- 👯 I’m looking to collaborate on **good projects**
+- 👯 I’m looking to collaborate on **Good Projects**
 
 - 📫 How to reach me **mukundaparajuli13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/www.linkedin.com/in/mukunda-parajuli-274660212" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/mukunda-parajuli-274660212" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="www.linkedin.com/in/mukunda-parajuli-274660212" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/mukunda.parajuli.1232" target="blank"><img align="center"
+    <a href="https://www.facebook.com/mukunda.parajuli.1232" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/mukunda.parajuli.1232" height="30" width="40" /></a>
     <a href="https://instagram.com/mukundaparajuli13" target="blank"><img align="center"
