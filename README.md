@@ -7,7 +7,7 @@
         src="https://komarev.com/ghpvc/?username=mukundaparajuli&label=Profile%20views&color=0e75b6&style=flat"
         alt="mukundaparajuli" /> </p>
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👯 I’m looking to collaborate on **Good Projects**
 
